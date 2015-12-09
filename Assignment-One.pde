@@ -136,7 +136,7 @@ int a, b;
 class Turkey {
 
   Turkey() {
-    turkey = loadImage("turkey_wide_eyed_T.png");
+    turkey = loadImage("https://cloud.githubusercontent.com/assets/14241981/11695355/54e1bfc4-9e74-11e5-9967-2391b138bff0.png");
   }
 
   void drawTurkey() {
