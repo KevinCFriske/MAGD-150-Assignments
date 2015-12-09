@@ -79,7 +79,7 @@ class Pilgrim {
 
 
   Pilgrim() {
-    pilgrim = loadImage("indian-boy-and-pilgrim-boy.png");
+    pilgrim = loadImage("https://cloud.githubusercontent.com/assets/14241981/11695309/196dc28a-9e74-11e5-9f97-1d809c1b4e13.png");
   }
 
   void drawPilgrim() {
