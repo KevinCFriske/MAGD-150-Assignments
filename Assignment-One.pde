@@ -17,7 +17,7 @@ Timer myTimer;
 
 void setup() {
   size(800, 600);
-  background = loadImage("wheat-field-wallpaper-24058-24720-hd-wallpapers.jpg");
+  background = loadImage("https://cloud.githubusercontent.com/assets/14241981/11695382/717a9f8e-9e74-11e5-8aed-ac3e0fe76044.jpg");
   newTurkey = new Turkey();
   myPilgrim = new Pilgrim();
   myTimer = new Timer(100);
