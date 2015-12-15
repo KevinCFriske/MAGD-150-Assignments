@@ -30,7 +30,7 @@ void setup(){
   bestColor = color(0);
   //Loads the images
   img = loadImage("original.png");
-  img2 = loadImage("maxresdefault.jpg");
+  img2 = loadImage("https://cloud.githubusercontent.com/assets/14241981/11817682/a5889c6c-a31b-11e5-9cff-893e562d52ae.jpg");
   /*
   //Loads sound file
   minim = new Minim(this);
