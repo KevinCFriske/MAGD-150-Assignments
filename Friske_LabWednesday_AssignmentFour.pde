@@ -29,7 +29,7 @@ void setup(){
   rectColor = color(130,130,255);
   bestColor = color(0);
   //Loads the images
-  img = loadImage("original.png");
+  img = loadImage("https://cloud.githubusercontent.com/assets/14241981/11817689/ae879e26-a31b-11e5-9847-29da7db279d7.png");
   img2 = loadImage("https://cloud.githubusercontent.com/assets/14241981/11817682/a5889c6c-a31b-11e5-9cff-893e562d52ae.jpg");
   /*
   //Loads sound file
