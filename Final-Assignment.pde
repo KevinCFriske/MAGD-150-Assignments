@@ -423,7 +423,7 @@ class LevelOne {
     
     //clouds1 = loadImage("Clouds1.png");
     //clouds2 = loadImage("Clouds2.png");
-    clouds3 = loadImage("Clouds3.png");
+    clouds3 = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834152/590fefec-a38f-11e5-8a2e-8f5f6bbde192.png");
     
     //cloudX1 = 2160;
     //cloudX3 = 2160;
@@ -603,7 +603,7 @@ class LevelTwo {
   float scrape;
 
   LevelTwo() {
-    skyline = loadImage("Skyline.png");
+    skyline = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834210/d3b85fae-a38f-11e5-96c7-08f32ac78d43.png");
   }
 
   void displayBackground() {
@@ -799,10 +799,10 @@ class Player {
     playerXOffset = 20;
     playerYOffset = 40;
     jumpBoost = 100;
-    player = loadImage("Player.png");
-    playerJetPack = loadImage("PlayerJetPack.png");
-    playerLeft = loadImage("PlayerLeft.png");
-    playerJetPackLeft = loadImage("PlayerJetPackLeft.png");
+    player = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834173/804f4328-a38f-11e5-9c17-7731ec9fa02d.png");
+    playerJetPack = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834182/99f61a90-a38f-11e5-91e2-f06f33016e61.png");
+    playerLeft = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834190/b2eb999e-a38f-11e5-8fc6-32274ae35879.png");
+    playerJetPackLeft = loadImage("https://cloud.githubusercontent.com/assets/14241981/11834198/c54d1cac-a38f-11e5-8790-6465c4318242.png");
   }
 
   void display() {
